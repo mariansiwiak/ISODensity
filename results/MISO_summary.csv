@@ -1,7 +1,7 @@
 bw_factor,template,M_low,M_med,M_high
-bw_0.7,stellar,6.18e+07,2.28e+08,7.87e+08
-bw_0.7,baryonic,5.10e+07,1.88e+08,6.50e+08
-bw_1.0,stellar,5.78e+07,2.23e+08,8.11e+08
-bw_1.0,baryonic,4.78e+07,1.84e+08,6.70e+08
-bw_1.3,stellar,5.41e+07,2.18e+08,8.46e+08
-bw_1.3,baryonic,4.47e+07,1.80e+08,6.99e+08
+bw_0.7,stellar,2.42e+06,5.51e+06,6.76e+06
+bw_0.7,baryonic,2.00e+06,4.56e+06,5.59e+06
+bw_1.0,stellar,3.23e+06,7.55e+06,9.66e+06
+bw_1.0,baryonic,2.67e+06,6.23e+06,7.98e+06
+bw_1.3,stellar,4.08e+06,1.03e+07,1.38e+07
+bw_1.3,baryonic,3.37e+06,8.50e+06,1.14e+07
